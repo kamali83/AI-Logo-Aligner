@@ -1,0 +1,5 @@
+{
+  "name": "AI Logo Aligner",
+  "description": "Upload a company name image and a logo image, and this AI-powered tool will perfectly align the logo with the company name, creating a new, combined brand asset.",
+  "requestFramePermissions": []
+}
